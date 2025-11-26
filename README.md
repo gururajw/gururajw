@@ -27,7 +27,7 @@
 
 I am a researcher working in the field of radiative transfer in astrophysical transients such as supernovae and kilonovae through computational modeling. I develop codes to help me analyze the data and to simulate computational models for the astrophysical processes.
 
-An open-source, 1-D, Monte Carlo Radiation Transport code SuperLite that I developed as part of my tenure at Louisiana State University to synthesize model spectra for supernovae powered by circumstellar interactions is publicly available under GNU GPL3 license. 
+An open-source, 1-D, Monte Carlo Radiation Transport code SuperLite that I developed as part of my tenure at Louisiana State University to synthesize model spectra for supernovae powered by circumstellar interactions is publicly available under GNU GPL3 license. SuperLite is based on the code SuperNu version 3.X developed by Ryan Wollaeger and Dan van Rossum.
 
 <!--
 **gururajw/gururajw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
