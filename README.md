@@ -25,9 +25,9 @@
 
 ### About me:
 
-I am a researcher working in the field of computational astrophysics. My primary area of research is supernovae and other astrophysical transients. I develop codes to help me analyze the data and to simulate computational models for the astrophysical processes. 
+I am a researcher working in the field of radiative transfer in astrophysical transients such as supernovae and kilonovae through computational modeling. I develop codes to help me analyze the data and to simulate computational models for the astrophysical processes.
 
-Currently, I am developing an open-source, 1-D, Monte Carlo Radiation Transport code at Louisiana State University to synthesize model spectra for supernovae powered by circumstellar interactions. 
+An open-source, 1-D, Monte Carlo Radiation Transport code SuperLite that I developed as part of my tenure at Louisiana State University to synthesize model spectra for supernovae powered by circumstellar interactions is publicly available under GNU GPL3 license. 
 
 <!--
 **gururajw/gururajw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
